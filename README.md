@@ -5,7 +5,7 @@ Student Developer • Java • Python • Web
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+building+projects;Always+learning+something+new+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=heyy+buddyy!;Always+learning+something+new+%F0%9F%9A%80" />
 </p>
 
 ---
