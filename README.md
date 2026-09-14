@@ -10,12 +10,14 @@ Student Developer • Java • Python • Web
 
 ---
 
-## 🚀 About Me
+## 🚀 Just me!
 
 🎓 Student Developer  
 💻 Learning Python, Java & SQL  
 🌐 Exploring Web Development  
 🚀 Building projects and improving my skills  
+💻 Gamer!
+🚀 Game developing.
 
 > **Learning by building.**
 
