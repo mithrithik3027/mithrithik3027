@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Mithrithik</h1>
+<h1 align="center">Hey 👋 I'm Hrithik</h1>
 
 <h3 align="center">
 Student Developer • Java • Python • Web
@@ -10,19 +10,18 @@ Student Developer • Java • Python • Web
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
 🎓 Student Developer  
 💻 Learning Python, Java & SQL  
-🌐 Interested in Web Development  
+🌐 Exploring Web Development  
 🚀 Building projects and improving my skills  
-🌱 Always learning something new  
 
 > **Learning by building.**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ My Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github" />
@@ -30,13 +29,13 @@ Student Developer • Java • Python • Web
 
 ---
 
-## 🚀 What I'm Working On
+## 📌 Currently Working On
 
-- 🌐 Building my personal portfolio
-- 🐍 Improving Python
-- ☕ Learning Java
-- 🗄️ Practicing SQL
-- 🚀 Creating new projects
+- 🌐 Personal Portfolio
+- 🐍 Python Projects
+- ☕ Java Projects
+- 🗄️ SQL & DBMS
+- 🚀 New coding projects
 
 ---
 
@@ -54,25 +53,12 @@ Student Developer • Java • Python • Web
 
 ## 🎯 2026 Goals
 
-- [ ] 🚀 Build 5+ projects
 - [ ] 🐍 Improve Python
 - [ ] ☕ Improve Java
-- [ ] 🌐 Improve Web Development
+- [ ] 🌐 Learn Web Development
 - [ ] 🤖 Build an AI project
-- [ ] ⭐ Grow my GitHub
+- [ ] 🚀 Build 5+ projects
 
 ---
 
-## ⚡ Developer Mode
-
-
-┌──────────────────────────────────┐
-│  SYSTEM STATUS: ONLINE 🟢        │
-│                                  │
-│  > Learning...                   │
-│  > Coding...                     │
-│  > Building...                   │
-│  > Improving...                  │
-│                                  │
-│  STATUS: NEVER STOP 🚀           │
-└──────────────────────────────────┘
+<h3 align="center">⚡ Code • Create • Learn • Repeat ⚡</h3>
